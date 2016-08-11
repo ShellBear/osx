@@ -38,7 +38,7 @@ install_dmg_app "$FIREFOX_APP_URL" "Firefox" "$FIREFOX_APP_NAME"
 install_dmg_app "$OPERA_APP_URL" "Opera" "$OPERA_APP_NAME"
 
 # Vivaldi
-install_dmg_app "$VIVALDI_APP_URL" "Vivaldi 1.1.453.47" "$VIVALDI_APP_NAME"
+install_dmg_app "$VIVALDI_APP_URL" "Vivaldi 1.3.551.30" "$VIVALDI_APP_NAME"
 
 # OmniGraffle
 install_dmg_app "$OMNIGRAFFLE_APP_URL" "OmniGrafflePro" "$OMNIGRAFFLE_APP_NAME"

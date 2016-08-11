@@ -159,7 +159,7 @@ export OPERA_APP_NAME=Opera.app
 export OPERA_APP_URL="http://www.opera.com/download/get/?id=39353&location=410&nothanks=yes&sub=marine"
 
 export VIVALDI_APP_NAME=Vivaldi.app
-export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.1.453.47.dmg"
+export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.3.551.30.dmg"
 
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
